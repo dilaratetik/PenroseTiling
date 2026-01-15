@@ -2,7 +2,8 @@
 A C++ implementation of Penrose Tiling patterns using custom rasterization algorithms (DDA &amp; Scanline). Features Robinson Triangles, Rhombus modes, and Golden Ratio-based subdivision
 
 **What is this project?**
-This is a C++ application that generates the famous **Penrose Tiling**—a geometric pattern that extends infinitely without ever repeating itself (aperiodic). [cite_start]It uses the **Golden Ratio** ($\phi \approx 1.618$) to subdivide shapes recursively.
+This is a C++ application that generates the famous **Penrose Tiling**—a geometric pattern that extends infinitely without ever repeating itself (aperiodic).
+It uses the **Golden Ratio** ($\phi \approx 1.618$) to subdivide shapes recursively.
 
 **Why is it special?**
 Unlike standard graphics projects that rely on pre-made tools, this project builds the rendering logic **from scratch**.
@@ -12,4 +13,4 @@ Unlike standard graphics projects that rely on pre-made tools, this project buil
 **What can it do?**
 * **Robinson Triangles:** Renders the classic pattern in pink shades.
 * **Rhombus Mode:** Converts triangles into diamond shapes (Rhombuses).
-* **Wallpaper Mode:** Generates unique, random-colored patterns sized perfectly for mobile phone wallpapers (1080x2160)[cite: 21, 23].
+* **Wallpaper Mode:** Generates unique, random-colored patterns sized perfectly for mobile phone wallpapers.
