@@ -192,7 +192,7 @@ vector<Triangle> baslangic(float g, float y, float r) {
     merkez.x = g / 2.0f;
     merkez.y = y / 2.0f;
 
-    for (int i = 0; i < 10; i++) { //10 üçgen oluþturuyorum, 36 derece
+    for (int i = 0; i < 10; i++) { //10 Ã¼Ã§gen oluÃ¾turuyorum, 36 derece
        
         float aci1 = (2 * i - 1) * 18.0f;
         float aci2 = (2 * i + 1) * 18.0f;
@@ -537,4 +537,5 @@ int main() {
     
     cout << "\nComplated!" << endl;
     return 0;
+
 }
