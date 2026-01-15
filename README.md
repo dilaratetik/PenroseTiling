@@ -1,4 +1,4 @@
-# Penrose Tiling: Infinite Geometric Patterns 🧩
+# Penrose Tiling: Infinite Geometric Patterns ♾️
 A C++ implementation of Penrose Tiling patterns using custom rasterization algorithms (DDA &amp; Scanline). Features Robinson Triangles, Rhombus modes, and Golden Ratio-based subdivision
 
 **What is this project?**
