@@ -26,7 +26,7 @@ To demonstrate both algorithmic understanding and modern development skills, thi
     * No external graphics libraries were used.
     * **Line Drawing:** Manually calculated using the **DDA Algorithm**.
     * **Filling:** Polygons are filled using a custom **Scanline Algorithm** with Active Edge Tables.
-    * *This version is the result of the core learning outcomes of the COMP465 course.*
+    * *This version is the result of the core learning outcomes of the Computer Graphics course.*
 
 ### 2. `SFML_version` (The Modern Engine) 🚀
 * **Goal:** To create a smoother, high-performance version of the same logic using industry-standard tools.
